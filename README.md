@@ -6,3 +6,7 @@
 ## ProcessExplorer
 pe cpu排查工具
 2019.11.6
+
+## idea2020.2
+jetbrains激活工具
+2020.10.12
